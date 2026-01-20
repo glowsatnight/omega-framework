@@ -315,11 +315,6 @@ DEVELOPMENT/            Previous versions, development history
    ├── Ov23.6_Master_Index.md
    ├── PREVIOUS_VERSIONS/
    └── CHANGELOG.md
-
-STRATEGY/               Business strategy & income pathways
-   ├── Strategy_Summary.md
-   ├── ZERO_COST_PATHWAYS.md
-   └── INCOME_PATHWAYS.md
 ```
 
 ---
