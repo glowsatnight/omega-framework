@@ -304,12 +304,6 @@ IMPLEMENTATION/         Phase 0-4 timeline & validation gates
    ├── FINANCIAL_TIMELINE.md
    └── VALIDATION_GATES.md
 
-TOOLS/                  Python calculator, measurement templates
-   ├── omega_calculator.py (Tier 1 rapid assessment)
-   ├── measurement_protocol.xlsx
-   ├── construct_scoring_template.md
-   └── domain_interpretations.json
-
 DEVELOPMENT/            Previous versions, development history
    ├── Ov23.6_Development_Retrospective.md
    ├── Ov23.6_Master_Index.md
