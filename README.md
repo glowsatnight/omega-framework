@@ -309,6 +309,12 @@ DEVELOPMENT/            Previous versions, development history
    ├── Ov23.6_Master_Index.md
    ├── PREVIOUS_VERSIONS/
    └── CHANGELOG.md
+
+Research/            Quick-lookup materials for Omega v23.6
+   ├── Omega-Complete-Glossary.txt** (50K words) 
+   ├── QUICK_REFERENCE.md
+   ├── Measurement-Tiers-Comparison.md
+   └── Decision-Trees.md
 ```
 
 ---
