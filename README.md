@@ -335,7 +335,6 @@ VALIDATION/             Validation status and licensing
 **Gate 1: Construct Validity (Week 4, Month 2) - IN PROGRESS**
 - Question: Does Omega predict outcomes? (r ≥ 0.65?)
 - Status: Data archaeology in progress
-- Timeline: Results by week 4
 
 **Gate 2: Measurement Reliability (Month 3.5) - SCHEDULED**
 - Question: ICC ≥ 0.70 for all constructs?
